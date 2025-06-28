@@ -6,10 +6,10 @@
 ### 🚀 About Me
 
 - 🔧 I specialize in **Frontend & Backend Development**
-- 🛠️ Passionate about **building APIs & Microservices**
-- 🌐 Skilled in **Web & App Development**
-- 🤖 Exploring **AI, ML, and Automation**
-- 📦 Contributor and advocate for **Open Source**
+- 🛠️ Passionate about Updating with Trends  
+- 🌐 Skilled in Web & App Development
+- 🤖 Exploring AI, ML, and Automation
+- 📦 Contributor and advocate for Open Source
 
 ---
 
