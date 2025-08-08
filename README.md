@@ -31,13 +31,13 @@
 
 ## 🌟 Featured Projects
 
-| Name | Description | Tech |
-|------|-------------|------|
-| 🧠 [Real-time Emotion Detection](https://github.com/Manuvg1907/Real-time-Emotion-Detection) | Multimodal emotion detection using facial & voice features | Python, OpenCV, Deep Learning |
-| 🍄 [Mushroom E-commerce App](https://github.com/Manuvg1907/MushroomApp) | React-based mushroom selling app with cart & Razorpay | React, Node.js, Bootstrap |
-| 🧬 [Alzheimer’s Detection App](https://github.com/Manuvg1907/Alzheimers-Detection-Flask) | Flask app to detect early signs of Alzheimer’s using ML | Python, Flask, Sklearn |
-| 🏠 [Student Hostel Management System](https://github.com/Manuvg1907/Hostel-Management-System) | Full DBMS project to manage hostel records and allocation | PHP, MySQL, HTML/CSS |
-| 🤖 [Multimodal Emotion Detection](https://github.com/Manuvg1907/Multimodal-Emotion-Detection) | Real-time voice + facial recognition with output text & sound | Python, DL, SpeechRecognition |
+| 🚀 Project | 📝 Description | 🔧 Tech |
+|-----------|----------------|---------|
+| 🧠 [Real-time Emotion Detection](https://github.com/Manuvg1907/Real-time-Emotion-Detection) | Facial & voice-based emotion detection using OpenCV & DL | Python, OpenCV |
+| 🍄 [Mushroom E-commerce App](https://github.com/Manuvg1907/MushroomApp) | Full React-based mushroom selling app with Razorpay | React, Node.js, Bootstrap |
+| 🧬 [Alzheimer’s Detection App](https://github.com/Manuvg1907/Alzheimers-Detection-Flask) | Flask app to detect early Alzheimer's using ML | Python, Flask |
+| 🏠 [Student Hostel Management System](https://github.com/Manuvg1907/Hostel-Management-System) | DBMS project for hostel record management | PHP, MySQL |
+| 🤖 [Multimodal Emotion Detection](https://github.com/Manuvg1907/Multimodal-Emotion-Detection) | Real-time voice + facial emotion output as text & voice | Python, DL |
 | 💬 [Feedback System App](https://github.com/Manuvg1907/Feedback-System) | Feedback system with form validation and backend | React, Node.js |
 
 ---
@@ -54,10 +54,14 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuvg1907&theme=react-dark" />
+  🟩 Check out my real-time contribution calendar on my GitHub profile page!  
+  <br />
+  <a href="https://github.com/Manuvg1907">
+    <img src="https://user-images.githubusercontent.com/63827040/131613034-9a7b35c4-ff34-4d96-b41a-7cbd40cfe0f3.png" width="600" alt="Contribution Graph Example" />
+  </a>
 </p>
 
 ---
