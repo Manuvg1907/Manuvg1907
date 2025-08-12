@@ -56,11 +56,13 @@
 
 ---
 
-## 📈 Commit Activity
+## 📈 Commit Activity (Custom Color Graph)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuvg1907&theme=radical" alt="Commit Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuvg1907&theme=tokyo-night" alt="Activity Graph" />
 </p>
+
+> ⚡ *Your default GitHub green-dot contribution graph will still appear automatically on your profile page.*
 
 ---
 
