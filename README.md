@@ -87,8 +87,8 @@ Always open for collaboration on:
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:manuvgofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manuvgcs26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="[https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/manu-v-g-undefined-7b93092b2)?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/manuvg1907"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
